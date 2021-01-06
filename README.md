@@ -1,8 +1,6 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=felipsoarez&show_icons=true)](https://github.com/datacrypto-analytics/crypto-analysis-cli)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=felipsoarez&show_icons=true&theme=gruvbox)](https://github.com/datacrypto-analytics/crypto-analysis-cli)
 
-<a href="https://github.com/felipsoarez">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=felipsoarez&show_icons=true" />
-</a>
+
 
 
 [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/felipsoarez_)
